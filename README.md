@@ -1,4 +1,4 @@
-![image](https://github.com/tmb1n/ManualTesting_TestCases-01/assets/74730558/03f38b57-3466-4fc3-9044-5f7b74707e4f)# Manual Testing - TestCases_01
+## Manual Testing - TestCases_01
 
 ## Project Name: MedicineCare 
 <br>
