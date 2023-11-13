@@ -1,4 +1,4 @@
-# Manual Testing - TestCases_01
+# Manual Testing - TestCase_01
 
 ## Project Name: MedicineCare 
 <br>
