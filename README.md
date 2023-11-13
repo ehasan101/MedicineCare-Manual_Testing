@@ -1,6 +1,6 @@
 # Manual Testing - TestCase_01
 
-## Project Name: MedicineCare 
+## Project Name: Manual Testing for MedicineCare App
 <br>
 
 ## Task
