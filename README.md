@@ -1,4 +1,4 @@
-# Manual Testing - TestCases_01
+![image](https://github.com/tmb1n/ManualTesting_TestCases-01/assets/74730558/03f38b57-3466-4fc3-9044-5f7b74707e4f)# Manual Testing - TestCases_01
 
 ## Project Name: MedicineCare 
 <br>
@@ -23,8 +23,9 @@ Write some test cases in standard format from the MedicineCare app including RTM
 ```
 
 ## What I have done in this Test?
-I have created test cases both positive and negative test based on more scenarios. Basically it's divided into three section in excel sheet (UI-UX, All input field and others mix). Test with both valid & invalid input then get 15 actual results according to the expected result. There were 5 tests got wrong and 1 was a warning. \
+I have created test cases both positive & negative tests designed to validate the correct behavior of the app and identify some potential issues based on some scenarios. Basically it's divided into three section in excel sheet (UI-UX, All input field and others mix). Test with both valid & invalid input then get 15 actual results according to the expected result. There were 5 tests got wrong and 1 was a warning. \
 All images of the test cases are given below also share `excel sheet` which **[uploaded on GD]([#](https://docs.google.com/spreadsheets/d/1A9ONZcUJ54XECvGjsVn1-jiyKj4lPWvK/edit?usp=drive_link&ouid=106028938157744319674&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/1A9ONZcUJ54XECvGjsVn1-jiyKj4lPWvK/edit?usp=drive_link&ouid=106028938157744319674&rtpof=true&sd=true).**
+
 
 
 ## All Snapshots
