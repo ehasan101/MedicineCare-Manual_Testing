@@ -36,7 +36,7 @@ All images of the test cases are given below also share `excel sheet` which **[u
 > * *Section-1*
 ![Module-1](https://drive.google.com/uc?export=view&id=18QTdmhNDce41mPPgjRzeelvFgR4z6HoL)
 
-> * Section-2*
+> * *Section-2*
 ![Module-2](https://drive.google.com/uc?export=view&id=1HCFyS2HoC-71GUlL-EapOeRnfoI0hdpc)
 
 > * *Section-3*
