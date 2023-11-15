@@ -3,7 +3,7 @@
 ## Project Name: Manual Testing for MedicineCare App
 <br>
 
-## Task
+## Description
 Write some test cases in standard format from the MedicineCare app including RTM in Excel Sheet.
 
 
