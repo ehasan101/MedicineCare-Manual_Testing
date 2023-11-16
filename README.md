@@ -1,11 +1,9 @@
 # Manual Testing - TestCase_01
 
 ## Project Name: Manual Testing for MedicineCare App
-<br>
-
-## Description
 Write some test cases in standard format from the MedicineCare app including RTM in Excel Sheet.
 
+<br>
 
 ## Test Case Parameters:
 ``` bash
