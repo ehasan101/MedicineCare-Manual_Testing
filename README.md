@@ -4,8 +4,6 @@
 ## Manual Testing on MedicineCare App
 Write some test cases in standard format from the MedicineCare app including RTM in Excel Sheet.
 
-<br>
-
 ## Test Case Parameters:
 ``` bash
 01. Test Case ID	
