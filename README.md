@@ -1,4 +1,4 @@
-# Manual Testing - TestCase_01
+# Manual Testing - TestCase
 <br>
 
 ## Manual Testing on MedicineCare App
