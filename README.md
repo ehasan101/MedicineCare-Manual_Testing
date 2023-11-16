@@ -1,7 +1,7 @@
 # Manual Testing - TestCase_01
 <br>
 
-## Project Name: Manual Testing for MedicineCare App
+## Manual Testing on MedicineCare App
 Write some test cases in standard format from the MedicineCare app including RTM in Excel Sheet.
 
 <br>
